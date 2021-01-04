@@ -7,5 +7,7 @@
 </head>
 <body>
     <p> Je suis la modification<p>
+
+    <?php print_r($toto) ?>
 </body>
 </html>
